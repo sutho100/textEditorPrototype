@@ -1,0 +1,30 @@
+﻿[
+  {
+    "outputFile": "css/main.css",
+    "inputFile": "css/main.less"
+  },
+  {
+    "outputFile": "js/main.es5.js",
+    "inputFile": "js/main.js"
+  },
+  {
+    "outputFile": "js/editor.es5.js",
+    "inputFile": "js/editor.js"
+  },
+  {
+    "outputFile": "js/index.es5.js",
+    "inputFile": "js/index.js"
+  },
+  {
+    "outputFile": "js/plugins.es5.js",
+    "inputFile": "js/plugins.js"
+  },
+  {
+    "outputFile": "js/browser.es5.js",
+    "inputFile": "js/browser.js"
+  },
+  {
+    "outputFile": "js/files.es5.js",
+    "inputFile": "js/files.js"
+  }
+]
